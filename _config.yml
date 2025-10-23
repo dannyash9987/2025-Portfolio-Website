@@ -1,6 +1,6 @@
 title: Danny Ashcraft's TSA Project Portfolio
 description: Portfolio site template
-url: "https://dannyash9987.github.io"  # no trailing slash
+url: "https://dannyash9987.github.io/2025-Portfolio-Website"  # no trailing slash
 baseurl: "/"                             # leading slash required
 
 # Choose ONE of these (theme OR remote_theme):
