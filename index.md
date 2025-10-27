@@ -17,8 +17,7 @@ Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showc
 Navigate with the links below:
 
 - [About](/2025-Portfolio-Website/about/)
-- [Standards & One‑Pagers](/standards/)
-- [Projects](/projects/)
-- [Help Desk KB](/kb/)
-- [Device Clinic Logs](/logs/)
-- [Networking](/net/)
+- [Standards](/2025-Portfolio-Website/standards/)
+- [Class Projects](/2025-Portfolio-Website/projects/)
+- [Devices](/2025-Portfolio-Website/logs/)
+- [Networking/Internet](/2025-Portfolio-Website/net/)
