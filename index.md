@@ -16,7 +16,7 @@ Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showc
 
 Navigate with the links below:
 
-- [About](/https://dannyash9987.github.io/2025-Portfolio-Website/about/)
+- [About](/2025-Portfolio-Website/about/)
 - [Standards & One‑Pagers](/standards/)
 - [Projects](/projects/)
 - [Help Desk KB](/kb/)
