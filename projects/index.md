@@ -3,8 +3,8 @@
 # Projects
 
 This website is under maintenance. Please check back for more information about my projects I am doing in class.
-1 - TSA Project - I am doing the Webmaster section of the projects.
-2 - LAB-C8T45AV (We are fixing the PC's to function properly) - The one I have actually functioned pretty well just needed a way to get WI-FI connected instead of Ethernet.
+- TSA Project - I am doing the Webmaster section of the projects.
+- LAB-C8T45AV (We are fixing the PC's to function properly) - The one I have actually functioned pretty well just needed a way to get WI-FI connected instead of Ethernet.
 
 ## Client/Server Mini‑App
 (I have not currently started on the Mini-App whenever it is completed it will show up here)
