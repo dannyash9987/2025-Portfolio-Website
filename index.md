@@ -17,5 +17,4 @@ Navigate with the links below or use the top Menu Page:
 - [Goals](/2025-Portfolio-Website/standards/)
 - [Info on All Projects](/2025-Portfolio-Website/projects/)
 - [PC Project](/2025-Portfolio-Website/logs/)
-- [Network/Internet](/2025-Portfolio-Website/net/)
 - Another Page Coming Soon! Check Back!
