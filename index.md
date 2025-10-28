@@ -9,7 +9,7 @@ hero: true
 Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showcases real artifacts from our **student‑run IT department**:
 
 - Web team (Internet Technologies)
-- Device clinic (Hardware & Software Maintenance)
+- Device Repairs (Hardware & Software Maintenance)
 
 Navigate with the links below or use the top Menu Page:
 
@@ -18,4 +18,4 @@ Navigate with the links below or use the top Menu Page:
 - [Info on All Projects](/2025-Portfolio-Website/projects/)
 - [PC Project](/2025-Portfolio-Website/logs/)
 - [Network/Internet](/2025-Portfolio-Website/net/)
-- [Important IT Info.](/2025-Portfolio-Website/importance/)
+- Another Page Coming Soon! Check Back!
