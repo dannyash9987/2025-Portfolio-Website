@@ -9,15 +9,13 @@ hero: true
 Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showcases real artifacts from our **student‑run IT department**:
 
 - Web team (Internet Technologies)
-- Help desk (Help Desk Operations)
 - Device clinic (Hardware & Software Maintenance)
-- Network & infrastructure (Intro to Networking Concepts)
-- Dev & automation (Computational Thinking)
 
-Navigate with the links below:
+Navigate with the links below or use the top Menu Page:
 
-- [About](/2025-Portfolio-Website/about/)
-- [Standards](/2025-Portfolio-Website/standards/)
-- [Class Projects](/2025-Portfolio-Website/projects/)
-- [Devices](/2025-Portfolio-Website/logs/)
-- [Networking/Internet](/2025-Portfolio-Website/net/)
+- [About Me](/2025-Portfolio-Website/about/)
+- [Goals](/2025-Portfolio-Website/standards/)
+- [Info on All Projects](/2025-Portfolio-Website/projects/)
+- [PC Project](/2025-Portfolio-Website/logs/)
+- [Network/Internet](/2025-Portfolio-Website/net/)
+- [Important IT Info.}](/2025-Portfolio-Website/importance/)
