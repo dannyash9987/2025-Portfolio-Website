@@ -1,11 +1,11 @@
 {% include nav.html %}
 
-# Device Clinic Logs
+# PC Repair Project
 
 Document real maintenance tasks (drivers, firmware, backups). Each entry should include:
-- Device ID and specs
-- Problem symptoms
-- Steps taken
-- Result and root cause
+- LAB-C8T45AV
+- No WI-FI just Ethernet
+- Powered up Computer to see if it worked.
+- The root cause is where it is a older PC and WI-FI was not put into PC's back when Windows 7 existed.
 
-**Alignment:** [Computer Hardware & Software Maintenance 110101] [Bullets: 3–5, 9]
+**Alignment:** [Computer Hardware & Software Maintenance 110101] [Bullets: 6th]
