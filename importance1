@@ -1,4 +1,4 @@
-{% include importance.html %}
+{% include nav.html %}
 
 # Importance
 
