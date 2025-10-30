@@ -1,0 +1,9 @@
+{% include importance.html %}
+
+# Importance
+
+This page will include the following:
+- Show the steps of this Project
+- Timeline Information
+- Pros and Cons of how the project went
+- Future: Where does this project go from here?
