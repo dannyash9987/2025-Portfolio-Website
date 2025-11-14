@@ -2,7 +2,6 @@
 
 # About Me
 Hello, My name is Danny Ashcraft. I am currently a Sophomore at ECHS, and am pleased to announce that I will be doing a TSA (Technology Student Association) Project for my ATC (Area Technology Center) classes. 
-I can't thank Mr. Bennett enough for giving me this opportunity to do this project. 
 
 # Hobbies
 - Tracking the Weather
