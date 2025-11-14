@@ -2,7 +2,7 @@
 
 # PC Repair Project
 
-Document real maintenance tasks (drivers, firmware, backups). Each entry should include:
+We done another Project in Class where we took a PC and checked to see how it functioned. Below are the results of the one I choose.
 - LAB-C8T45AV
 - No WI-FI just Ethernet
 - Powered up Computer to see if it worked.
