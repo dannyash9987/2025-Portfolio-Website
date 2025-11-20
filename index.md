@@ -15,6 +15,5 @@ Navigate with the links below or use the top Menu Page:
 
 - [About Me](/2025-Portfolio-Website/about/)
 - [Goals](/2025-Portfolio-Website/standards/)
-- [Info on All Projects](/2025-Portfolio-Website/projects/)
+- [Projects Info.](/2025-Portfolio-Website/projects/)
 - [PC Project](/2025-Portfolio-Website/logs/)
-- **Another Page Coming Soon! Check Back!**
